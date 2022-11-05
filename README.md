@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @animepug2002
 - 👀 I’m interested in coding and animals
-- 🌱 I’m currently a freshmen in college.
+- 🌱 I’m currently in college.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me is by my instagram, @animegirlpug
 
