@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @animepug2002
 - 👀 I’m interested in coding, history, and videogames
 - 🌱 I’m currently in college for BAAS in History.
--📘 I mostly use this as an archive from my participation in a GWC event in 2019.
+- 📘 I mostly use this as an archive from my participation in a GWC event in 2019.
   
 
 <!---
